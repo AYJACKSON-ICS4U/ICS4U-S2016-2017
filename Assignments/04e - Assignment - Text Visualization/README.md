@@ -1,6 +1,6 @@
 Task(s)
 -------
-1. Find a document on [Project Gutenberg - Canada](http://www.gutenberg.ca/#h3completecatalogue).  When you find one that you like, download the **Text** version of it.
+1. Find a document on [Project Gutenberg - Canada](http://www.gutenberg.ca/#h3completecatalogue).  When you find one that you like (excluding ```rhesus```), download the **Text** version of it.
 2. Complete the following tasks with your text file:
    * Create a canvas that has a visualization of the text that satisfies the rubric below
    * Make use of at least 1 HTML/DOM item
