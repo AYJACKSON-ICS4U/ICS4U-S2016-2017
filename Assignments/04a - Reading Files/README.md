@@ -18,7 +18,7 @@ Modify the _README.md_ file in the **04a** folder to explain what your program d
 
 Due Date(s)
 -------------
-To be uploaded to the repository by 11:59pm on April 4th, 2017
+To be uploaded to the repository by 11:59pm on April 5th, 2017
 
 Rubric(s)
 ---------
