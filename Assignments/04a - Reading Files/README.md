@@ -9,6 +9,7 @@ Task(s)
    * [Project Gutenberg - Canada](http://www.gutenberg.ca/#catalogueA)
    * [p5.js - loadStrings()](https://p5js.org/reference)
    * [p5.js - preload()](https://p5js.org/reference)
+   * [Daniel Shiffman - Loading Files (only first 8 minutes)](https://www.youtube.com/watch?v=0Mq2CxspF5s)
 
 Submission Item(s)
 ------------------
