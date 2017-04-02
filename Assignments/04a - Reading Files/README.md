@@ -10,6 +10,7 @@ Task(s)
    * [p5.js - loadStrings()](https://p5js.org/reference)
    * [p5.js - preload()](https://p5js.org/reference)
    * [Daniel Shiffman - Loading Files (only first 8 minutes)](https://www.youtube.com/watch?v=0Mq2CxspF5s)
+   * [Daniel Shiffman - split() and join() (starts at 11:55)](https://youtu.be/DcoAjEZYies?t=11m55s)
 
 Submission Item(s)
 ------------------
