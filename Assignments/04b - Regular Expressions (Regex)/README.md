@@ -6,7 +6,7 @@ Task(s)
 2. Display your 4 numbers using the HTML DOM.  Include text labels for clarity.  Ensure you use ```noCanvas()``` in ```setup()```.
 3. Document your work properly.
 4. Resources below might prove useful.  
-   * [Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript)
+   * [Regex Cheatsheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/)
    * [p5.js - Regex Videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
    * [Daniel Shiffman - p5.js Regex written](http://shiffman.net/a2z/regex/)
    * [Regex Tutorials](https://regexone.com/)
