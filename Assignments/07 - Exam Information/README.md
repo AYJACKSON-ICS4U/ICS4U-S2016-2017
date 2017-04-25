@@ -11,9 +11,9 @@ Exam Information
 
 2. You will **not** have access to your peers, any electronic devices, or internet access for this exam.
 
-There is a copy of the exam's structure at **OUT | Seidel | ICS4U | Exam**
+There will be a copy of the exam's structure at **OUT | Seidel | ICS4U | Exam**
 
-##Topics:
+## Topics:
 You should have an in-depth understanding of:
 * Markdown
 * Git/GitHub
