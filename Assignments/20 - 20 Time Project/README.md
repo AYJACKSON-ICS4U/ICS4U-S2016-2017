@@ -73,7 +73,7 @@ In-class presentations begin May 8th, 2017. There will be up to two presentation
 
 | Date                | Presenter(s)  |
 | ------------------- | ---------- |
-| May 8th, 2017  | Arshad, Kevin  |
+| May 8th, 2017  | Xiao, Kevin  |
 | May 9th, 2017  | **No presentations this day** |
 | May 10th, 2017  | **No presentations this day** |
 | May 11th, 2017  | Jyotiraditya, Kasun |
@@ -82,14 +82,15 @@ In-class presentations begin May 8th, 2017. There will be up to two presentation
 | May 16th, 2017  | Xin Yu, David |
 | May 17th, 2017  | Wen Qin, Russell |
 | May 18th, 2017  | QianQian, Mohamad |
-| May 19th, 2017  | Xiao, Jason |
-| May 23rd, 2017  | Fatima, Chris |
-| May 24th, 2017  | Roy, Noor |
-| May 25th, 2017  | Navya, Wayne |
-| May 26th, 2017  | Sakina, Brayden |
-| May 29th, 2017  | Bhavya, William |
-| May 30th, 2017  | Emad, Hassan |
-| May 31st, 2017  | Mr. Seidel |
+| May 19th, 2017  | Arshad, Jason |
+| May 23rd, 2017  | **No presentations this day** |
+| May 24th, 2017  | Fatima, Chris |
+| May 25th, 2017  | Roy, Noor |
+| May 26th, 2017  | Navya, Wayne |
+| May 29th, 2017  | Sakina, Brayden |
+| May 30th, 2017  | Bhavya, William |
+| May 31st, 2017  | Emad, Hassan |
+| Jun 1st, 2017  | Mr. Seidel |
 
 Presentation order was chosen randomly by placing all names (excluding mine) in a list and running them through [this](https://www.random.org/lists/) website 5 times.
 
