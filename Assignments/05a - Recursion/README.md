@@ -23,7 +23,7 @@ Modify the _README.md_ file in the **05a** folder to explain what your program d
 
 Due Date(s)
 -------------
-To be uploaded to the repository by 11:59pm on May 3rd, 2017  
+To be uploaded to the repository by 11:59pm on May 5th, 2017  
 _**~~There will be a recursion test on May 4th, 2017 in class to ensure understanding~~**_
 
 
