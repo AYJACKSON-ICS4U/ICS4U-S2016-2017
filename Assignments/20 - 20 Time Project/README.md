@@ -76,7 +76,7 @@ In-class presentations begin May 8th, 2017. There will be up to two presentation
 | May 8th, 2017  | Xiao, Kevin  |
 | May 9th, 2017  | **No presentations this day** |
 | May 10th, 2017  | **No presentations this day** |
-| May 11th, 2017  | Jyotiraditya, Kasun |
+| May 11th, 2017  | Wayne, Kasun |
 | May 12th, 2017  | Steven, Ashar |
 | May 15th, 2017  | Obayed, Danny |
 | May 16th, 2017  | Xin Yu, David |
@@ -86,7 +86,7 @@ In-class presentations begin May 8th, 2017. There will be up to two presentation
 | May 23rd, 2017  | **No presentations this day** |
 | May 24th, 2017  | Fatima, Chris |
 | May 25th, 2017  | Roy, Noor |
-| May 26th, 2017  | Navya, Wayne |
+| May 26th, 2017  | Navya, Jyotiraditya |
 | May 29th, 2017  | Sakina, Brayden |
 | May 30th, 2017  | Bhavya, William |
 | May 31st, 2017  | Emad, Hassan |
