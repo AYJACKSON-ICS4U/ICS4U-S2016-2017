@@ -38,7 +38,7 @@ Modify the _README.md_ file in the **05d** folder to explain what your program d
 
 Due Date(s)
 -------------
-To be uploaded to the repository by 11:59pm on May 19th, 2017
+To be uploaded to the repository by 11:59pm on May 24th, 2017
 
 
 Rubric(s)
