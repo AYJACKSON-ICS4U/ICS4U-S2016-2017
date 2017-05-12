@@ -27,7 +27,7 @@ Create an _ANALYSIS.md_ file to answer the questions in number 6 above.
 
 Due Date(s)
 -------------
-To be uploaded to the repository by 11:59pm on May 13th, 2017  
+To be uploaded to the repository by 11:59pm on May 17th, 2017  
 
 
 Rubric(s)
