@@ -81,10 +81,10 @@ In-class presentations begin May 8th, 2017. There will be up to two presentation
 | May 15th, 2017  | Obayed, Danny |
 | May 16th, 2017  | Xin Yu, David |
 | May 17th, 2017  | Arshad, Russell |
-| May 18th, 2017  | QianQian, Mohamad |
+| May 18th, 2017  | Fatima, Mohamad |
 | May 19th, 2017  | Wenqin, Jason |
 | May 23rd, 2017  | **No presentations this day** |
-| May 24th, 2017  | Fatima, Chris |
+| May 24th, 2017  | QianQian, Chris |
 | May 25th, 2017  | Roy, Noor |
 | May 26th, 2017  | Navya, Jyotiraditya |
 | May 29th, 2017  | Sakina, Brayden |
