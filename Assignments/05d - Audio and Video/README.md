@@ -1,5 +1,5 @@
 
-Task(s)
+Optional Task(s)
 -------
 Complete **one** of the following options:
 
@@ -38,7 +38,8 @@ Modify the _README.md_ file in the **05d** folder to explain what your program d
 
 Due Date(s)
 -------------
-To be uploaded to the repository by 11:59pm on May 24th, 2017
+~~To be uploaded to the repository by 11:59pm on May 24th, 2017~~
+**This assignment is now optional.** If you are skipping this assignment, begin your culminating.
 
 
 Rubric(s)
