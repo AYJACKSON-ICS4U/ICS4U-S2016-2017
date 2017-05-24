@@ -17,6 +17,8 @@ Task(s)
    * [Daniel Shiffman - Processing - Drawing with ```pixels```](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bsRnSEJ9tRn4V_XCGXovs4)
    * [Daniel Shiffman - Processing - Video Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8)
    * [Daniel Shiffman - p5.js - Video and Pixels](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
+   * [Prezi - Notes](http://prezi.com/kpgyneipmt8d/?utm_campaign=share&utm_medium=copy)
+
 
 Submission Item(s)
 ------------------
