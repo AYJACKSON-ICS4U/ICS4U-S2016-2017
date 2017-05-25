@@ -3,27 +3,38 @@ ICS4U
 
 ICS4U Course for Mr. Seidel's classes
 
-The overall learning goal for this class for the Spring 2017 class is as follows:
-* _By the end of this course, you should be able to create an accurately represented comprehensive visualization of data_
+By the end of this course, you should be able to create any of the following:
+* A visualization program to visualize large amounts of data
+* An in-depth video game (or set of video games)
+* Solve a complex problem with the assistance of a program
+* Create an application as requested by a teacher or community member
 
-The programming language we are using this year is *JavaScript* mainly using a library called *P5.js*
+The course will be set up in a way that allows a lot of freedom of choice in completing your work.  There will be many options of programming languages, and methods of submitting non-programming understanding.  For the programming portion, it is highly suggested that you choose one of the following options as they are installed at school, and are easy to work with.
 
+#### Suggested options
+* JavaScript - used in many websites, and more recently in desktop applications (see [Electron](https://electron.atom.io/) as an example)
+    * [p5.js library](https://p5js.org/)
+    * any other JS library available can be "installed" easily, such as [Matter.js - physics engine](http://brm.io/matter-js/), [RiTa.js - computational literature](http://rednoise.org/rita/), [D3.js - for data driven documents](https://d3js.org/), and many more.
+* Lua 5.3
+    * [CoronaSDK](https://coronalabs.com/corona-sdk/) - mobile app development
+    * [Löve2D](https://love2d.org/) - graphics engine - used for mobile app and game development
+* [Processing](https://processing.org/)
+    
+#### More traditional options:
+* Python 3
+    * [Pygame](https://www.pygame.org/news) - used for game development
+* Java
+    * [Android SDK](https://developer.android.com/studio/index.html)
+    
 #### Tentative Topics
-_Note: Some of these topics may be assigned as homework throughout the course, and the order may change as the course progresses_
-
 * Markdown
 * Git and Github
-* HTML basics
-* Making the jump to JavaScript (using P5.JS)
-* 20 Time Project
-* Functions (beyond void)
-* Callback Functions
-* Objects and Encapsulation
-* Recursion (graphically)
-* Input/Output
-* Sorting and Searching
-* Generative Art Algorithms
 * Project Management
+* Programming
+  * Encapsulation (Functions and Objects)
+  * Recursion
+  * Input and Output
+  * Sorting and Searching
 * Environmental Stewardship
 * Emerging Technology
 * Ethics
@@ -58,6 +69,4 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * [Typora](https://www.typora.io/)
 * [Markdown Pad 2 - Portable](http://markdownpad.com/faq.html#portable)
 
-Please see the [GitHub Wiki](https://github.com/mrseidel-classes/ICS4U/wiki) for the rules and regulations of the classroom as decided by your peers.
-
-Please enter your [GitHub and 20Time details here](https://goo.gl/forms/5v259WFPKuWz9mlF2)
+### Overarching Learning Goals
