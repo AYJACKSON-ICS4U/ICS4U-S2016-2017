@@ -67,29 +67,29 @@ Create a **new** folder in your repository to house the culminating project, and
 
 |                                          | 0    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
-| A1. Demonstrate the ability to use different data types and expressions |      |      |      |      |      |
+| **A1. Demonstrate the ability to use different data types and expressions** |      |      |      |      |      |
 | A1.2: Able to convert between types of variables (i.e. string-to-integer, integer-to-character, etc.) |      |      |      |      |      |
 | A1.3: Demonstrate the ability to compare strings |      |      |      |      |      |
 | A1.5: Use one-dimensional arrays of compound data types (i.e. objects) |      |      |      |      |      |
-| A2. Use modular programming concepts and principles |      |      |      |      |      |
+| **A2. Use modular programming concepts and principles** |      |      |      |      |      |
 | A2.1: Create a modular program that is divided among multiple files |      |      |      |      |      |
 | A2.2: Use modular design concepts such as encapsulation (i.e. objects, functions, etc.) |      |      |      |      |      |
-| A3. Design and write algorithms and subprograms to solve a problem |      |      |      |      |      |
+| **A3. Design and write algorithms and subprograms to solve a problem** |      |      |      |      |      |
 | A3.1: Demonstrate the ability to read from an external file |      |      |      |      |      |
 | A3.2: Use a binary or linear search algorithm to find data in an array |      |      |      |      |      |
 | A3.4: Use a custom-built sorting algorithm to sort data in an array (don't use the built-in ```sort()``` function) |      |      |      |      |      |
 | A3.6: Design a simple and efficient recursive algorithm |      |      |      |      |      |
-| A4. Use proper code maintenance techniques |      |      |      |      |      |
+| **A4. Use proper code maintenance techniques** |      |      |      |      |      |
 | A4.1: Work independently, using support documentation, to resolve syntax issues |      |      |      |      |      |
 | A4.3: Create fully documented program code according to industry standards (i.e. javadocs/jsdocs, commenting, variable naming, class naming, etc.) |      |      |      |      |      |
 | A4.4: Create clear and maintainable **_external_** documentation (help file for how to use your program) |      |      |      |      |      |
-| B1. Demonstrate the ability to manage the software development process effectively, through all of its stages - planning, development, production, and closing |      |      |      |      |      |
+| **B1. Demonstrate the ability to manage the software development process effectively, through all of its stages - planning, development, production, and closing** |      |      |      |      |      |
 | B1.1: Create a software plan **before** coding, including a list of tasks, deliverables, and a planned schedule |      |      |      |      |      |
 | B1.2: Create your project as per the plan |      |      |      |      |      |
 | B1.4: Use an appropriate project management tool (i.e. Gantt chart, calendar, etc.) to manage the project |      |      |      |      |      |
 | B1.6: Review the management of the project as part of your reflection (see reflection criteria for this portion) |      |      |      |      |      |
 | B1.7: Demonstrate the ability to use GitHub during the process of creating the project (i.e. ensure multiple versions, updates, etc. are completed for this project, and not just 1 lump commit at the end) |      |      |      |      |      |
-| C1. Demonstrate the ability to apply modular design concepts |      |      |      |      |      |
+| **C1. Demonstrate the ability to apply modular design concepts** |      |      |      |      |      |
 | C1.1: Demonstrate the ability to apply data encapsulation (i.e. classes) |      |      |      |      |      |
 | C1.4: Demonstrate the principle of reusability in program design (i.e. effective class and function creation) |      |      |      |      |      |
 
